@@ -2,7 +2,7 @@
 
 ### 笔记
 
-![最佳路径](./bestpath.png)
+![最佳路径](./bestPath.png)
 
 ## 思维导图
 
