@@ -13,11 +13,11 @@ axis =0 || acxis =1
 
 ## 分析
 
-[statistics](./statistics.py)
+[statistics.py](./statistics.py)
 
 ## 算数运算
 
-[arthmetic](./arthmetic.py)
+[arithmetic.py](./arithmetic.py)
 
 ## 求百分比
 
