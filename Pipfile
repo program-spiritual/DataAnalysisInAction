@@ -9,6 +9,7 @@ verify_ssl = true
 pandas = "*"
 openpyxl = "*"
 xlrd = "*"
+pandasql = "*"
 
 [requires]
 python_version = "2.7"
