@@ -13,3 +13,8 @@ pysqldf = lambda sql: sqldf(sql, globals())
 sql = "select * from df1 where name='ZhangFei'"
 
 print pysqldf(sql)
+
+'''output
+   data1      name
+0      0  ZhangFei
+'''
