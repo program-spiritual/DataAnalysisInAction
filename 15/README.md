@@ -6,8 +6,12 @@
 
 1、使用局部点渲染 散点图
 
-[散点图](./ScatterPlot.py)
+![散点图](./x.png)
+
+[代码](./ScatterPlot.py)
+
+
 
 2、使用随机点生成散点图
-
-[随机散点图](./useseaborn.py)
+![随机点生成散点图](./matplotlib_render.png)
+[代码](./useseaborn.py)

@@ -9,6 +9,7 @@
 - [05 Pandas（代码）](./05/README.md)
 - [11 数据清洗（部分代码）](./11/README.md)
 - [14 数据可视化）](./14/README.md)
+- [15 一次学会Python数据可视化的10种技能](./15/README.md)
 
 
 ## TODO
