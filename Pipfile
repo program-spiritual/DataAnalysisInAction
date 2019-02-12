@@ -10,6 +10,8 @@ pandas = "*"
 openpyxl = "*"
 xlrd = "*"
 pandasql = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [requires]
 python_version = "2.7"
