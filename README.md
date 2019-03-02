@@ -3,7 +3,7 @@
 
 > 配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
 
-## 更新 (🆕更新到第18讲)
+## 更新 (🆕更新到第19讲)
 
 1. 配置镜像源为 `清华大学` 镜像源
 2. 项目 `pyenv` 依赖为 `Python 3.6.7`
@@ -20,6 +20,7 @@
 - [15 一次学会Python数据可视化的10种技能](./15/README.md)
 - [16-17 决策树](./16-17/README.md)
 - [18 分类回归树](./18/README.md)
+- [19 泰坦尼克号生存预测(代码待继续更新)](./19/README.md)
 
 
 ## TODO
@@ -32,6 +33,10 @@
 - [ ] 6. 关联规则挖掘
 - [ ] 7. PageRank
 
+## 讨论 
+
+本人日常问题记录的方式为 `github Issues`  (根据标签分类 `Issues `，方便查找和交流问题) 
+地址：[点我](https://github.com/xiaomiwujiecao/geek-thickink/issues)
 ## PS
 
 1. 不涉及代码不更新
