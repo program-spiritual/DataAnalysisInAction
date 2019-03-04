@@ -13,6 +13,7 @@ pandasql = "*"
 matplotlib = "*"
 seaborn = "*"
 sklearn = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.6.7"
