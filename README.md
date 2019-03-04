@@ -3,7 +3,7 @@
 
 > 配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
 
-## 更新 (🆕更新到第19讲)
+## 更新 (🆕更新到第 `21` 讲)
 
 1. 配置镜像源为 `清华大学` 镜像源
 2. 项目 `pyenv` 依赖为 `Python 3.6.7`
@@ -21,11 +21,13 @@
 - [16-17 决策树](./16-17/README.md)
 - [18 分类回归树](./18/README.md)
 - [19 泰坦尼克号生存预测](./19/README.md)
+- [20 -朴素贝叶斯(上)](./20/README.md)
+- [21 -朴素贝叶斯(下)](./21/README.md)
 
 
 ## TODO
 
-- [ ] 1.朴素贝叶斯分类
+- [x] 1.朴素贝叶斯分类
 - [ ] 2. SVM
 - [ ] 3. KNN
 - [ ] 4. K-Means

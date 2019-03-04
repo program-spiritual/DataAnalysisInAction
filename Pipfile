@@ -14,6 +14,8 @@ matplotlib = "*"
 seaborn = "*"
 sklearn = "*"
 graphviz = "*"
+nltk = "*"
+jieba = "*"
 
 [requires]
 python_version = "3.6.7"
