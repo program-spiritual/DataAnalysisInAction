@@ -16,6 +16,8 @@ sklearn = "*"
 graphviz = "*"
 nltk = "*"
 jieba = "*"
+pillow = "*"
+scikit-image = "*"
 
 [requires]
 python_version = "3.6.7"
