@@ -1,4 +1,7 @@
-# -*- coding: utf-8 -*-
+# coding=utf-8
+import matplotlib
+
+matplotlib.use('TkAgg')
 # 手写数字分类
 from sklearn.model_selection import train_test_split
 from sklearn import preprocessing
