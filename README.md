@@ -3,7 +3,7 @@
 
 > 配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
 
-## 更新 (🆕更新到第 `25` 讲)
+## 更新 (🆕更新到第 `27` 讲)
 
 1. 配置镜像源为 `清华大学` 镜像源
 2. 项目 `pyenv` 依赖为 `Python 3.6.7`
@@ -27,14 +27,15 @@
 - [23 -SVM(下) 如何进行乳腺癌检测](./23/README.md)
 - [24 -KNN(上)](./24/README.md)
 - [25 -KNN(下) 如何识别手写数字](./25/README.md)
-
+- [26 K-Means(上)](./26/README.md)
+- [27 K-Means(下) 如何对图像进行切割](./27/README.md)
 
 ## TODO
 
 - [x] 1.朴素贝叶斯分类
 - [x] 2.SVM
 - [x] 3.KNN
-- [ ] 4.K-Means
+- [x] 4.K-Means
 - [ ] 5.EM 聚类
 - [ ] 6.关联规则挖掘
 - [ ] 6.关联规则挖掘
