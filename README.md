@@ -3,7 +3,7 @@
 
 > 配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
 
-## 更新 (🆕更新到第 `21` 讲)
+## 更新 (🆕更新到第 `22` 讲)
 
 1. 配置镜像源为 `清华大学` 镜像源
 2. 项目 `pyenv` 依赖为 `Python 3.6.7`
@@ -23,6 +23,7 @@
 - [19 泰坦尼克号生存预测](./19/README.md)
 - [20 -朴素贝叶斯(上)](./20/README.md)
 - [21 -朴素贝叶斯(下)](./21/README.md)
+- [22 -SVM(上)](./22/README.md)
 
 
 ## TODO
@@ -37,7 +38,7 @@
 
 ## 讨论 
 
-本人日常问题记录的方式为 `github Issues`  (根据标签分类 `Issues `，方便查找和交流问题) 
+笔者日常问题记录的方式为 `github Issues`  (根据标签分类 `Issues `，方便查找和交流问题) 
 地址：[点我](https://github.com/xiaomiwujiecao/geek-thickink/issues)
 ## PS
 
