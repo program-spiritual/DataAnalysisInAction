@@ -1,3 +1,4 @@
 .idea/*
 .venv/*
 Pipfile.lock
+.DS_Store
