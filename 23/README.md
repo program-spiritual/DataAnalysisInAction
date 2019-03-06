@@ -34,4 +34,4 @@
 
   `mean` `se` `worst` 代表不同的度量方式
 
-  [数据清洗代码](./breast_cancer_data/breast_svm.py)
+  [数据清洗代码](./breastCancerData/breast_svm.py)
