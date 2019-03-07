@@ -45,6 +45,11 @@
 
 笔者日常问题记录的方式为 `github Issues`  (根据标签分类 `Issues `，方便查找和交流问题) 
 地址：[点我](https://github.com/xiaomiwujiecao/geek-thickink/issues)
+
+##  [star列表](https://github.com/xiaomiwujiecao/DataAnalysisInAction/stargazers)
+
+##  [fork成员列表](https://github.com/xiaomiwujiecao/DataAnalysisInAction/network/members)
+
 ## PS
 
 1. 不涉及代码不更新
