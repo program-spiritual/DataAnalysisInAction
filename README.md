@@ -3,7 +3,7 @@
 
 > 配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
 
-## 更新 (🆕更新到第 `29` 讲)
+## 更新 (🆕更新到第 `31` 讲)
 
 1. 配置镜像源为 `清华大学` 镜像源
 2. 项目 `pyenv` 依赖为 `Python 3.6.7`
@@ -31,6 +31,12 @@
 - [27 K-Means(下) 如何对图像进行切割](./27/README.md)
 - [28 EM (上)](./28/README.md)
 - [29 EM (下)](./29/README.md)
+- [30 关联挖掘 (上)](./30/README.md)
+- [31 关联挖掘 (下)](./31/README.md)
+- [32 PageRank (上)](./32/README.md)
+- [33 PageRank (下)](./33/README.md)
+- [34 AdaBoost (上)](./34/README.md)
+- [35 AdaBoost (下)](./35/README.md)
 
 ## TODO
 
@@ -39,9 +45,11 @@
 - [x] 3.KNN
 - [x] 4.K-Means
 - [x] 5.EM 聚类
-- [ ] 6.关联规则挖掘
+- [x] 6.关联规则挖掘
 - [ ] 7.PageRank
 - [ ] 8.AdaBoost
+- [ ] 9.自动化运营微博
+- [ ] 10.毛不易歌词云
 
 ## 讨论 
 

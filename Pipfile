@@ -18,6 +18,9 @@ nltk = "*"
 jieba = "*"
 pillow = "*"
 scikit-image = "*"
+efficient-apriori = "*"
+lxml = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.6.7"
