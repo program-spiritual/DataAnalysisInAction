@@ -29,6 +29,8 @@
 - [25 -KNN(下) 如何识别手写数字](./25/README.md)
 - [26 K-Means(上)](./26/README.md)
 - [27 K-Means(下) 如何对图像进行切割](./27/README.md)
+- [28 EM (上)](./28/README.md)
+- [29 EM (下)](./29/README.md)
 
 ## TODO
 
@@ -36,7 +38,7 @@
 - [x] 2.SVM
 - [x] 3.KNN
 - [x] 4.K-Means
-- [ ] 5.EM 聚类
+- [x] 5.EM 聚类
 - [ ] 6.关联规则挖掘
 - [ ] 7.PageRank
 - [ ] 8.AdaBoost
