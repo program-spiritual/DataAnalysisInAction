@@ -3,7 +3,7 @@
 
 > 配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
 
-## 更新 (🆕更新到第 `35` 讲)
+## 更新 (🆕更新到第 `37` 讲)
 
 1. 配置镜像源为 `清华大学` 镜像源
 2. 项目 `pyenv` 依赖为 `Python 3.6.7`
@@ -52,7 +52,7 @@
 - [x] 7.PageRank
 - [x] 8.AdaBoost
 ### 日常场景实战
-- [ ] 9.自动化运营微博
+- [x] 9.自动化运营微博
 - [ ] 10.毛不易歌词云
 - [ ] 11.信用卡违约率分析
 
