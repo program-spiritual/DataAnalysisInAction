@@ -39,7 +39,7 @@
     - [34 AdaBoost (上) 如何使用AdaBoost提升分类器性能？](./34/README.md)
     - [35 AdaBoost (下) 如何使用AdaBoost对房价进行预测？](./35/README.md)
 - **日常场景实战**
-    - [37 数据采集实战：如何自动化运营微博？](./36/README.md)
+    - [37 数据采集实战：如何自动化运营微博？](./37/README.md)
 ## TODO
 
 ### 算法
