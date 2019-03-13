@@ -21,6 +21,7 @@ scikit-image = "*"
 efficient-apriori = "*"
 lxml = "*"
 selenium = "*"
+networkx = "*"
 
 [requires]
 python_version = "3.6.7"
