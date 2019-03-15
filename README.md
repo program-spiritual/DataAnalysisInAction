@@ -3,7 +3,7 @@
 
 > 配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
 
-## 更新 (🆕更新到第 `37` 讲)
+## 更新 (🆕更新到第 `38` 讲)
 
 1. 配置镜像源为 `清华大学` 镜像源
 2. 项目 `pyenv` 依赖为 `Python 3.6.7`
@@ -11,35 +11,36 @@
 ### 目录
 
 -  **基础与算法**
-    - [01 数据分析全景图及修炼指南（笔记）](./01/README.md)
-    - [02 学习数据挖掘的最佳路径是什么?（笔记）](./02/README.md)
-    - [03 PYTHON基础语法?（习题）](./03/README.md)
-    - [04 Numpy（笔记）](./04/README.md)
-    - [05 Pandas（代码）](./05/README.md)
-    - [11 数据清洗（部分代码）](./11/README.md)
-    - [14 数据可视化）](./14/README.md)
-    - [15 一次学会Python数据可视化的10种技能](./15/README.md)
-    - [16-17 决策树](./16-17/README.md)
-    - [18 分类回归树](./18/README.md)
-    - [19 泰坦尼克号生存预测](./19/README.md)
-    - [20 -朴素贝叶斯(上)](./20/README.md)
-    - [21 -朴素贝叶斯(下)](./21/README.md)
-    - [22 -SVM(上)](./22/README.md)
-    - [23 -SVM(下) 如何进行乳腺癌检测](./23/README.md)
-    - [24 -KNN(上)](./24/README.md)
-    - [25 -KNN(下) 如何识别手写数字](./25/README.md)
-    - [26 K-Means(上) 如何给20支亚洲球队做聚类？](./26/README.md)
-    - [27 K-Means(下) 如何使用K-Means对图像进行分割？](./27/README.md)
-    - [28 EM (上) 如何将一份菜等分给两个人？](./28/README.md)
-    - [29 EM (下) 用EM算法对王者荣耀英雄进行划分](./29/README.md)
-    - [30 关联挖掘 (上) 如何用Apriori发现用户购物规则？](./30/README.md)
-    - [31 关联挖掘 (下) 导演如何选择演员？](./31/README.md)
-    - [32 PageRank (上) 搞懂Google的PageRank算法](./32/README.md)
-    - [33 PageRank (下) 分析希拉里邮件中的人物关系](./33/README.md)
-    - [34 AdaBoost (上) 如何使用AdaBoost提升分类器性能？](./34/README.md)
-    - [35 AdaBoost (下) 如何使用AdaBoost对房价进行预测？](./35/README.md)
+    - [01丨 数据分析全景图及修炼指南（笔记）](./01/README.md)
+    - [02丨 学习数据挖掘的最佳路径是什么?（笔记）](./02/README.md)
+    - [03丨 PYTHON基础语法?（习题）](./03/README.md)
+    - [04丨 Numpy（笔记）](./04/README.md)
+    - [05丨 Pandas（代码）](./05/README.md)
+    - [11丨 数据清洗（部分代码）](./11/README.md)
+    - [14丨 数据可视化）](./14/README.md)
+    - [15丨 一次学会Python数据可视化的10种技能](./15/README.md)
+    - [16-17丨 决策树](./16-17/README.md)
+    - [18丨 分类回归树](./18/README.md)
+    - [19丨 泰坦尼克号生存预测](./19/README.md)
+    - [20丨 -朴素贝叶斯(上)](./20/README.md)
+    - [21丨 -朴素贝叶斯(下)](./21/README.md)
+    - [22丨 -SVM(上)](./22/README.md)
+    - [23丨 -SVM(下) 如何进行乳腺癌检测](./23/README.md)
+    - [24丨 -KNN(上)](./24/README.md)
+    - [25丨 -KNN(下) 如何识别手写数字](./25/README.md)
+    - [26丨 K-Means(上) 如何给20支亚洲球队做聚类？](./26/README.md)
+    - [27丨 K-Means(下) 如何使用K-Means对图像进行分割？](./27/README.md)
+    - [28丨 EM (上) 如何将一份菜等分给两个人？](./28/README.md)
+    - [29丨 EM (下) 用EM算法对王者荣耀英雄进行划分](./29/README.md)
+    - [30丨 关联挖掘 (上) 如何用Apriori发现用户购物规则？](./30/README.md)
+    - [31丨 关联挖掘 (下) 导演如何选择演员？](./31/README.md)
+    - [32丨 PageRank (上) 搞懂Google的PageRank算法](./32/README.md)
+    - [33丨 PageRank (下) 分析希拉里邮件中的人物关系](./33/README.md)
+    - [34丨 AdaBoost (上) 如何使用AdaBoost提升分类器性能？](./34/README.md)
+    - [35丨 AdaBoost (下) 如何使用AdaBoost对房价进行预测？](./35/README.md)
 - **日常场景实战**
-    - [37 数据采集实战：如何自动化运营微博？](./37/README.md)
+    - [37丨 数据采集实战：如何自动化运营微博？](./37/README.md)
+    - [38丨数据可视化实战：如何给毛不易的歌曲做词云展示？](./38/README.md)
 ## TODO
 
 ### 算法
@@ -53,8 +54,9 @@
 - [x] 8.AdaBoost
 ### 日常场景实战
 - [x] 9.自动化运营微博
-- [ ] 10.毛不易歌词云
+- [x] 10.毛不易歌词云
 - [ ] 11.信用卡违约率分析
+- [ ] 12.信用卡诈骗分析
 
 ## 讨论 
 

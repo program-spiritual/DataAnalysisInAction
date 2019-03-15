@@ -22,6 +22,8 @@ efficient-apriori = "*"
 lxml = "*"
 selenium = "*"
 networkx = "*"
+wordcloud = "*"
+requests = "*"
 
 [requires]
 python_version = "3.6.7"
