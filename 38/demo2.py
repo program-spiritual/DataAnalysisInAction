@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 import matplotlib
 
-matplotlib.use('TkAgg')
+matplotlib.use('Qt4Agg')
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import jieba

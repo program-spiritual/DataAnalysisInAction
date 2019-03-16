@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import matplotlib
 
-matplotlib.use('TkAgg')
+matplotlib.use('Qt4Agg')
 import pandas as pd
 import csv
 import matplotlib.pyplot as plt

@@ -1,7 +1,7 @@
 # coding=utf-8
 import matplotlib
 
-matplotlib.use('TkAgg')
+matplotlib.use('Qt4Agg')
 # 手写数字分类
 from sklearn.model_selection import train_test_split
 from sklearn import preprocessing

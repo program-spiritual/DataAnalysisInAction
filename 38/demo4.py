@@ -3,7 +3,8 @@
 # 网易云音乐 通过歌手 ID，生成该歌手的词云
 import matplotlib
 
-matplotlib.use('TkAgg')
+matplotlib.use('Qt4Agg')
+
 import requests
 import sys
 import re
@@ -14,7 +15,7 @@ import jieba
 from PIL import Image
 import numpy as np
 from lxml import etree
-
+# plt.figure()
 headers = {
   'Referer': 'http://music.163.com',
   'Host': 'music.163.com',
@@ -22,7 +23,11 @@ headers = {
   'User-Agent': 'Chrome/10'
 }
 
-
+def plt_show():
+  try:
+    plt.show()
+  except UnicodeDecodeError:
+    plt_show()
 # 得到某一首歌的歌词
 def get_song_lyric(headers, lyric_url):
   res = requests.request('GET', lyric_url, headers=headers)
@@ -63,7 +68,7 @@ def create_word_cloud(f):
   # 显示词云文件
   plt.imshow(wordcloud)
   plt.axis("off")
-  plt.show()
+  plt_show()
 
 
 # 得到指定歌手页面 热门前 50 的歌曲 ID，歌曲名

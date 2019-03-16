@@ -1,6 +1,6 @@
 # encoding:utf-8
 import matplotlib
-matplotlib.use('TkAgg')
+matplotlib.use('Qt4Agg')
 import matplotlib.pyplot as plt
 
 ## 散点图

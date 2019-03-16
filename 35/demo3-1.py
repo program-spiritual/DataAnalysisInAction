@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib
 
-matplotlib.use('TkAgg')
+matplotlib.use('Qt4Agg')
 import matplotlib.pyplot as plt
 from sklearn import datasets
 from sklearn.metrics import zero_one_loss

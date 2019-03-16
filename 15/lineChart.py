@@ -2,7 +2,7 @@
 
 import matplotlib
 
-matplotlib.use('TkAgg')
+matplotlib.use('Qt4Agg')
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

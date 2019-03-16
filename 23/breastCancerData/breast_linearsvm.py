@@ -1,6 +1,6 @@
 # coding=utf-8
 import matplotlib
-matplotlib.use('TkAgg')
+matplotlib.use('Qt4Agg')
 # 乳腺癌诊断分类
 import pandas as pd
 import matplotlib.pyplot as plt

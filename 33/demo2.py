@@ -2,7 +2,7 @@
 # 用 PageRank 挖掘希拉里邮件中的重要任务关系
 import matplotlib
 
-matplotlib.use('TkAgg')
+matplotlib.use('Qt4Agg')
 import pandas as pd
 import networkx as nx
 import numpy as np
