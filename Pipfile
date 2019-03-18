@@ -25,6 +25,7 @@ networkx = "*"
 wordcloud = "*"
 requests = "*"
 pyqt5 = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.6.7"
