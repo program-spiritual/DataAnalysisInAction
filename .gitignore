@@ -2,4 +2,4 @@
 .venv/*
 Pipfile.lock
 .DS_Store
-40/creditcard.csv
+#40/creditcard.csv
