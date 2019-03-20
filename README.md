@@ -3,7 +3,7 @@
 
 > 配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
 
-## 更新 (🆕更新到第 `41` 讲)
+## 更新 (🆕更新到第 `42` 讲)
 
 1. 配置镜像源为 `清华大学` 镜像源
 2. 项目 `pyenv` 依赖为 `Python 3.6.7`
@@ -44,6 +44,7 @@
     - [39丨数据挖掘实战（1）：信用卡违约率分析](./39/README.md)
     - [40丨数据挖掘实战（2）：信用卡诈骗分析](./40/README.md)
     - [41丨数据挖掘实战（3）：如何对比特币走势进行预测？](./41/README.md)
+    - [42丨当我们谈深度学习的时候，我们都在谈什么？](./42/README.md)
 ## TODO
 
 ### 算法
@@ -62,10 +63,11 @@
 - [x] 12.信用卡诈骗分析
 - [x] 13.信用卡诈骗分析
 - [x] 14.如何对比特币走势进行预测？
+- [x] 15.我们谈深度学习的时候，我们都在谈什么？
 
-## 讨论 
+## 讨论
 
-笔者日常问题记录的方式为 `github Issues`  (根据标签分类 `Issues `，方便查找和交流问题) 
+笔者日常问题记录的方式为 `github Issues`  (根据标签分类 `Issues `，方便查找和交流问题)
 地址：[点我](https://github.com/xiaomiwujiecao/geek-thickink/issues)
 
 ##  [star列表](https://github.com/xiaomiwujiecao/DataAnalysisInAction/stargazers)
