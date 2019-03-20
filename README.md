@@ -85,3 +85,8 @@
 2. `pyenv`
 
 > 请读者自行百度并安装
+
+## 引用内容版权声明
+极客时间版权所有: https://time.geekbang.org/column/
+
+Copyright (c) 2019 Copyright Holder All Rights Reserved.

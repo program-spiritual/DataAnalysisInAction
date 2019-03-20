@@ -125,7 +125,12 @@
 - 语音识别
 - 自然语言处理
 
+
+## 总结
+
+![](https://static001.geekbang.org/resource/image/e8/b9/e88beadebefd5789efb08284193f65b9.png)
 ## 引用内容版权声明
-极客时间版权所有: https://time.geekbang.org/column/article/86582
+## 引用内容版权声明
+极客时间版权所有: https://time.geekbang.org/column/
 
 Copyright (c) 2019 Copyright Holder All Rights Reserved.
