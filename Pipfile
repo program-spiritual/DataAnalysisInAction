@@ -26,6 +26,10 @@ wordcloud = "*"
 requests = "*"
 pyqt5 = "*"
 statsmodels = "*"
+opencv-python = "*"
+scipy = "*"
+keras = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.6.7"
