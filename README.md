@@ -3,6 +3,7 @@
 
 > 配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
 
+> 所有代码 依赖包 请结合 `pipenv` 和  `pyenv`  运行 ， 如果包含以上环境 请直接运行 `pipenv install`  安装所有依赖 ，依赖包已包含在 `Pipfile`
 ## 更新 (🆕更新到第 `43` 讲)
 
 1. 配置镜像源为 `清华大学` 镜像源
