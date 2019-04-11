@@ -1,7 +1,7 @@
 ## 极客时间 数据分析实战45讲详细笔记
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 > 常见问题在本项目的 `Issues` 中，其他按住不表，如果存在疑问，请在Issues中添加新的 `Issue`
 
 > 配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
@@ -117,4 +117,4 @@ https://github.com/xiaomiwujiecao
 
 Copyright (c) 2019 Copyright Holder All Rights Reserved.
 
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
