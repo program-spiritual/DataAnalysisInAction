@@ -116,6 +116,8 @@ github 昵称： reverse()
 
 ### 欢迎加入灵动算法 `github` 组织
 
+![](img/灵动算法.png)
+
 项目地址：https://github.com/cleveralgorithms
 
 ### 加入方式 
