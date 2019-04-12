@@ -1,5 +1,7 @@
 ## 极客时间 数据分析实战45讲详细笔记
 
+![数据分析实战45讲详细笔记](./data_analysis_icon.png)
+
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 > 常见问题在本项目的 `Issues` 中，其他按住不表，如果存在疑问，请在Issues中添加新的 `Issue`
@@ -10,19 +12,20 @@
 
 > 本项目仅限于学习
 
-## 作者
+## 作者相关
 
-github 首页 
+老博客：http://geek.thickink.com
 
-https://github.com/xiaomiwujiecao
+新博客：https://xiaomiwujiecao.github.io
+  
+github 首页 :https://github.com/xiaomiwujiecao
 
- github id
+github id: `xiaomiwujiecao`
 
-`xiaomiwujiecao`
+github 昵称： reverse()
 
 
-
-## 已完结 (🆕更新到第 `45` 讲)
+## (🆕更新至第 `46` 讲)  *已完结*
 
 1. 配置镜像源为 `清华大学` 镜像源
 2. 项目 `pyenv` 依赖为 `Python 3.6.7`
@@ -90,6 +93,26 @@ https://github.com/xiaomiwujiecao
 - [x] 16.如何用Keras搭建深度学习网络做手写数字识别？
 - [x] 17.最终章【送君千里终须一别】
 - [x] 18.课程推荐
+
+## 新项目通告
+
+### 课程纪要
+
+#### 七牛云CEO(许式伟)架构课
+
+> 从源头出发，带你重新理解架构设计
+
+![](./46/七牛云CEO架构课.jpeg)
+
+### 新项目计划
+
+- [ ] 新建架构课程项目
+- [ ] 不定时更新架构课程项目
+- [ ] 整理和归纳课程知识
+
+### 项目地址(更新后展示)
+
+项目地址占位
 
 ## 讨论
 
