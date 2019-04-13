@@ -114,20 +114,6 @@ github 昵称： reverse()
 
 项目地址占位
 
-### 欢迎加入灵动算法 `github` 组织
-
-![](img/灵动算法.png)
-
-项目地址：https://github.com/cleveralgorithms
-
-### 加入方式 
-
-#### 第一步 扫码加入` 微信群` 
-
-![](img/灵动算法微信群.jpeg)
-
-#### 第二步骤 邀请进入 `github` 组织 
- 
 
 ## 讨论
 
