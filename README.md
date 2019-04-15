@@ -17,7 +17,7 @@
 老博客：http://geek.thickink.com
 
 新博客：https://xiaomiwujiecao.github.io
-  
+
 github 首页 :https://github.com/xiaomiwujiecao
 
 github id: `xiaomiwujiecao`
@@ -106,14 +106,15 @@ github 昵称： reverse()
 
 ### 新项目计划
 
-- [ ] 新建架构课程项目
-- [ ] 不定时更新架构课程项目
-- [ ] 整理和归纳课程知识
+- [x] 新建架构课程项目
+- [x] 不定时更新
+- [ ] 整理和归纳知识
 
-### 项目地址(更新后展示)
+### 项目地址(已更新)
 
-项目地址占位
+`github` 地址：
 
+[架构师的功夫](https://github.com/xiaomiwujiecao/KongFuOfArchitect)
 
 ## 讨论
 
@@ -140,5 +141,3 @@ github 昵称： reverse()
 极客时间版权所有: https://time.geekbang.org/column/
 
 Copyright (c) 2019 Copyright Holder All Rights Reserved.
-
-
