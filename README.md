@@ -11,7 +11,7 @@
 > 所有代码 依赖包 请结合 `pipenv` 和  `pyenv`  运行 ， 如果包含以上环境 请直接运行 `pipenv install`  安装所有依赖 ，依赖包已包含在 `Pipfile`
 
 > 本项目仅限于学习
-
+## 问题讨论：https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/14
 ## 作者相关
 
 老博客：http://geek.thickink.com
