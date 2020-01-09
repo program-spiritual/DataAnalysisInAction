@@ -99,36 +99,58 @@ github 昵称： reverse()
 - [x] 17.最终章【送君千里终须一别】
 - [x] 18.课程推荐
 
+## 极客福利时间
+
+### 《C Primer Plus》
+
+入门OOP和高级编程的必备，内容非常充实且含金量十足，是你居家旅行，驻场开发，熬夜撸代码必备之佳品！
+
+![QQ图片20200109192749.jpg](https://static.nodejs7.com/2020/01/1810737903.jpg!750_375)
+
+<!--more-->
+
+### 极客日历·时光日晷 
+
+ 转眼就到了2020，从一个公式`2020-1024=996`看来，2020 又要修福报了，这个时候来个日晷时钟，让你随意穿梭时间！
+
+![QQ图片20200109192940.jpg](https://static.nodejs7.com/2020/01/3841752683.jpg!750_375)
+
+### Linux 操作系统知识地图
+
+过年过节还在烧香求佛祖保佑无BUG，有了它，再也不用担心服务器宕机，服务出错了，高效解决服务器问题，掌握LINUX核心知识，晚上睡得香了！
+
+![QQ图片20200109192947.jpg](https://static.nodejs7.com/2020/01/2550343949.jpg!750_375)
+###   Linux 操作系统知识地图 Plus
+
+知识就像海绵里的水，不升级海绵，知识怎么能提升呢，这不， Linux 操作系统知识地图 Plus 2.0 版本来了，给你提升自我的机会！
+
+![QQ图片20200109192954.jpg](https://static.nodejs7.com/2020/01/2957469797.jpg!750_375)
+
+### Python 进阶训练营
+
+熬夜撸代码，时常感觉身体被掏空，你常常想如果能有神器助你，岂不美哉，学了《 Python 进阶训练营》,让你远离996，高效开发，永不加班！走上人生巅峰！
+
+
+
+![QQ图片20200109193000.jpg](https://static.nodejs7.com/2020/01/1162393558.jpg!750_375)
+
+### 算法训练营
+
+你是不是经常遇到老板临时给的任务，让你写个数据处理的算法，时间只有两个小时，你经常为此苦恼，但是从网上找到的资料经常存在疏漏。突然有一天你爆发了，你不愿意让自己沉默下去，因为你看到了这个：
+
+
+
+![QQ图片20200109193006.jpg](https://static.nodejs7.com/2020/01/3208738911.jpg!750_375)
+
+### 结束语
+
+2020 注定不平凡，技术无线，努力改变，拥抱未来，极客时间！
+
+
 ## 新项目通告
 
-### 课程纪要
+`github` 地址：[架构师的功夫](https://github.com/xiaomiwujiecao/KongFuOfArchitect)
 
-#### 七牛云CEO(许式伟)架构课
-
-> 从源头出发，带你重新理解架构设计
-
-![](./46/七牛云CEO架构课.jpeg)
-
-### 新项目计划
-
-- [x] 新建架构课程项目
-- [x] 不定时更新
-- [x] 整理和归纳知识
-
-### 项目地址(已更新)
-
-`github` 地址：
-
-[架构师的功夫](https://github.com/xiaomiwujiecao/KongFuOfArchitect)
-
-## 讨论
-
-笔者日常问题记录的方式为 `github Issues`  (根据标签分类 `Issues `，方便查找和交流问题)
-地址：[点我](https://github.com/xiaomiwujiecao/geek-thickink/issues)
-
-##  [star列表](https://github.com/xiaomiwujiecao/DataAnalysisInAction/stargazers)
-
-##  [fork成员列表](https://github.com/xiaomiwujiecao/DataAnalysisInAction/network/members)
 
 ## PS
 
