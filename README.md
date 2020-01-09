@@ -30,6 +30,11 @@ github 昵称： reverse()
 1. 配置镜像源为 `清华大学` 镜像源
 2. 项目 `pyenv` 依赖为 `Python 3.6.7`
 3. 如果需要重新安装依赖 请删除项目根路径下的 `.venv` 目录 和 `Pipfile.lock`文件
+
+## 知识体系
+
+![知识体系.png](https://static.nodejs7.com/2020/01/798357214.png)
+
 ### 目录
 
 -  **基础与算法**
