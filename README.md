@@ -1,31 +1,45 @@
-## 极客时间 数据分析实战45讲详细笔记
+# 极客时间 数据分析实战45讲详细笔记
 
 ![数据分析实战45讲详细笔记](./data_analysis_icon.png)
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-> 常见问题在本项目的 `Issues` 中，其他按住不表，如果存在疑问，请在Issues中添加新的 `Issue`
 
-> 配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
+## 前言
 
-> 所有代码 依赖包 请结合 `pipenv` 和  `pyenv`  运行 ， 如果包含以上环境 请直接运行 `pipenv install`  安装所有依赖 ，依赖包已包含在 `Pipfile`
+### 工欲善其事必先利其器
 
-> 本项目仅限于学习
-## 问题讨论：https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/14
-## 作者相关
+Windows平台开发如何能够更快捷，更舒适，请 Windows 的看官务必读一下这篇：
 
-老博客：http://geek.thickink.com
+[windows 流畅开发准备工作](https://ai.nodejs7.com/2020/01/14/118.html)
 
-新博客：https://xiaomiwujiecao.github.io
+### 环境及配置问题
 
-github 首页 :https://github.com/xiaomiwujiecao
+-  常见问题在本项目的 `Issues` 中，其他按住不表，如果存在疑问，请在Issues中添加新的 `Issue`
 
-github id: `xiaomiwujiecao`
+-  配置清华大学 `pipenv` 源的方法请 [点我](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/9)
 
-github 昵称： reverse()
+-  所有代码 依赖包 请结合 `pipenv` 和  `pyenv`  运行 ， 如果包含以上环境 请直接运行 `pipenv install`  安装所有依赖 ，依赖包已包含在 `Pipfile`
+
+> 注意： 本项目仅限于学习
+
+### 问题讨论：
+
+1. [问题讨论区](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/14)
+2. [疑难杂症](https://ai.nodejs7.com/category/default/)
+
+### 作者
+
+[极客点子](http://geek.thickink.com)
+
+[疯狂的AI(Artificial Intelligence)](http://ai.nodejs7.com/)
+
+[reverse()](:https://github.com/xiaomiwujiecao)
 
 
-## (🆕更新至第 `46` 讲)  *已完结*
+## 目录
+
+### (🆕更新至第 `46` 讲)  *已完结*
 
 1. 配置镜像源为 `清华大学` 镜像源
 2. 项目 `pyenv` 依赖为 `Python 3.6.7`
