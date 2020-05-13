@@ -28,7 +28,7 @@ Windows平台开发如何能够更快捷，更舒适，请 Windows 的看官务�
 1. [问题讨论区](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/14)
 2. [疑难杂症](https://ai.nodejs7.com/category/default/)
 
-### 作者
+### 博客
 
 [极客点子](http://geek.thickink.com)
 
@@ -36,6 +36,9 @@ Windows平台开发如何能够更快捷，更舒适，请 Windows 的看官务�
 
 [reverse()](:https://github.com/xiaomiwujiecao)
 
+## 数据集合收集
+
+数据集合收集正在进行中，参见：[python 数据集收集与整理](https://github.com/xiaomiwujiecao/pythonDataSetCollection)
 
 ## 目录
 
