@@ -36,6 +36,11 @@ Windows平台开发如何能够更快捷，更舒适，请 Windows 的看官务�
 
 [reverse()](:https://github.com/xiaomiwujiecao)
 
+## 致谢
+
+感谢阁下的star，感谢关注此项目，如果此项目对阁下产生了帮助，在下页诚挚的邀请你通过移动客户端的方式获取更多的资讯、知识、以及实用的工具，
+详情参见： [武文弄墨](https://app.nodejs7.com/)，再次表示真挚的感谢！
+
 ## 数据集合收集
 
 数据集合收集正在进行中，参见：[python 数据集收集与整理](https://github.com/xiaomiwujiecao/pythonDataSetCollection)
