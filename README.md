@@ -6,7 +6,7 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 
-## 版本 2.2
+## 版本 2.3
 ![](img/DataAnalysisInAction-snap.png)
 
 [在线文档](https://xiaomiwujiecao.github.io/DataAnalysisInAction)
