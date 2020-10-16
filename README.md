@@ -6,10 +6,27 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 
-## 版本 2.3
+## 版本 2.3.1
+
 ![](img/DataAnalysisInAction-snap.png)
 
 [在线文档](https://xiaomiwujiecao.github.io/DataAnalysisInAction)
+
+## 代码克隆出错
+
+```bash
+// Skip smudge - We'll download binary files later in a faster batch
+git lfs install --skip-smudge
+
+// Do git clone here
+git clone ...
+
+// Fetch all the binary files in the new clone
+git lfs pull
+
+// Reinstate smudge
+git lfs install --force
+```
 
 ## 前言
 
