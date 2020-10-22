@@ -19,16 +19,7 @@ print b.shape
 print a.dtype
 print b
 
-'''
-output::
-(3,)
-(3, 3)
-int64
-[[ 1  2  3]
- [ 4 10  6]
- [ 7  8  9]]
 
-'''
 ```
 
 ## 结构矩阵
@@ -64,14 +55,7 @@ print np.mean(chineses)
 print np.mean(math)
 print np.mean(english)
 
-'''output:
-28.25
-77.5
-93.25
-93.75
 
-
-'''
 
 ```
 ## 分析
@@ -96,17 +80,7 @@ print np.amin(a, 1)
 print np.amax(a)
 print np.amax(a, 0)
 print np.amax(a, 1)
-''' output
-最小值
-1
-[1 2 3]
-[1 4 7]
-最大值
-9
-[7 8 9]
-[3 6 9]
 
-'''
 
 print np.ptp(a)
 print np.ptp(a, 0)
@@ -220,17 +194,7 @@ print np.amin(a, 1)
 print np.amax(a)
 print np.amax(a, 0)
 print np.amax(a, 1)
-''' output
-最小值
-1
-[1 2 3]
-[1 4 7]
-最大值
-9
-[7 8 9]
-[3 6 9]
 
-'''
 
 print np.ptp(a)
 print np.ptp(a, 0)
@@ -325,17 +289,7 @@ print np.amin(a, 1)
 print np.amax(a)
 print np.amax(a, 0)
 print np.amax(a, 1)
-''' output
-最小值
-1
-[1 2 3]
-[1 4 7]
-最大值
-9
-[7 8 9]
-[3 6 9]
 
-'''
 
 print np.ptp(a)
 print np.ptp(a, 0)

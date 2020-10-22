@@ -62,15 +62,6 @@ data_frame2.dropna(how='all',inplace=True)
 
 print data_frame2
 
-'''output
-       Chinese  English  Math       name
-guan      66.0       65    30   xiaoguan
-zhang     95.0       85    98  xiaozhang
-zhao      93.0       92    96   xiaozhao
-ma        90.0       88    77     xiaoma
-huang      NaN       90    90  xiaohuang
-'''
-```
 
 ## 全面性
   - 单位不统一 转换单位

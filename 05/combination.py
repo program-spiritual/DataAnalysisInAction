@@ -39,40 +39,4 @@ print '\n'
 ##
 
 
-'''output
-   data1_x      name  data1_y
-0        0  ZhangFei        0
-1        1    GuanYu        1
 
-
-   data1      name
-0      0  ZhangFei
-1      1    GuanYu
-
-
-   data1      name
-0      0  ZhangFei
-1      1    GuanYu
-2      2         a
-3      3         b
-4      4         c
-
-
-   data1      name
-0      0  ZhangFei
-1      1    GuanYu
-2      2         A
-3      3         B
-4      4         C
-
-
-   data1      name
-0      0  ZhangFei
-1      1    GuanYu
-2      2         a
-3      3         b
-4      4         c
-5      2         A
-6      3         B
-7      4         C
-'''

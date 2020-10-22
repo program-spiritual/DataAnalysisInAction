@@ -20,6 +20,3 @@ result = pd.concat((data, pd.DataFrame(predict_y)), axis=1)
 result.rename({0: u'聚类'}, axis=1, inplace=True)
 print(result)
 
-'''output
-KeyError: "None of [Index(['2019 年国际排名 ', '2018 世界杯 ', '2015 亚洲杯 '], dtype='object')] are in the [columns]"
-'''

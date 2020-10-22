@@ -11,18 +11,7 @@ x2 = Series(data=[1,2,3,4],index=['a','b','c','d'])
 print x1
 print x2
 
-''' output
-0    1
-1    2
-2    3
-3    4
-dtype: int64
-a    1
-b    2
-c    3
-d    4
-dtype: int64
-'''
+
 ```
 
 [Frame](./dataFrame.py)
@@ -116,23 +105,10 @@ data_frame2 = DataFrame(data, index=['guan', 'zhang', 'zhao', 'ma', 'huang'])
 
 print data_frame2.isnull()
 print '\n'
-'''output
-       Chinese  English   Math
-guan     False    False  False
-zhang    False    False  False
-zhao     False    False  False
-ma       False    False  False
-huang     True    False  False
-'''
+
 
 print data_frame2.isnull().any()
 
-'''output
-Chinese     True
-English    False
-Math       False
-dtype: bool
-'''
 
 ##use apply function
 
@@ -140,14 +116,7 @@ data_frame2['name'] = data_frame2['name'].apply(str.upper)
 
 print data_frame2
 
-'''output
-       Chinese  English  Math       name
-guan      66.0       65    30   XIAOGUAN
-zhang     95.0       85    98  XIAOZHANG
-zhao      93.0       92    96   XIAOZHAO
-ma        90.0       88    77     XIAOMA
-huang      NaN       90    90  XIAOHUANG
-'''
+
 
 ## 使用函数
 
@@ -178,14 +147,7 @@ print '\n'
 df1 = data_frame2.apply(plus,axis=1,args=(2,3,))
 print df1
 
-'''output
-       Chinese  English  Math       name   new1   new2
-guan     132.0       65    30   XIAOGUAN  591.0  394.0
-zhang    190.0       85    98  XIAOZHANG  825.0  550.0
-zhao     186.0       92    96   XIAOZHAO  834.0  556.0
-ma       180.0       88    77     XIAOMA  804.0  536.0
-huang      NaN       90    90  XIAOHUANG    NaN    NaN
-'''
+
 ```
 
 ## 常用统计函数
@@ -265,9 +227,6 @@ sql = "select * from df1 where name='ZhangFei'"
 
 print pysqldf(sql)
 
-'''output
-   data1      name
-0      0  ZhangFei
-'''
+
 
 ```

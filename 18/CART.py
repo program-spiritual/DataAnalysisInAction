@@ -19,7 +19,3 @@ test_predict = clf.predict(test_features)
 # 预测结果与测试集结果作比对
 score = accuracy_score(test_labels, test_predict)
 print("CART 分类树准确率 %.4lf" % score)
-
-'''output
-CART 分类树准确率 0.9800
-'''

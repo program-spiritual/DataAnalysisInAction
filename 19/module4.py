@@ -17,13 +17,6 @@ test_data['Fare'].fillna(test_data['Fare'].mean(), inplace=True)
 
 print(train_data['Embarked'].value_counts())
 
-'''output
-S    644
-C    168
-Q     77
-Name: Embarked, dtype: int64
-
-'''
 
 # 使用登录最多的港口来填充登录港口的 nan 值
 train_data['Embarked'].fillna('S', inplace=True)
@@ -39,9 +32,6 @@ dvec = DictVectorizer(sparse=False)
 train_features = dvec.fit_transform(train_features.to_dict(orient='record'))
 print(dvec.feature_names_)
 
-'''output
-['Age', 'Embarked=C', 'Embarked=Q', 'Embarked=S', 'Fare', 'Parch', 'Pclass', 'Sex=female', 'Sex=male', 'SibSp']
-'''
 
 # 构造 ID3 决策树
 clf = DecisionTreeClassifier(criterion='entropy')

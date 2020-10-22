@@ -19,13 +19,6 @@ test_data['Fare'].fillna(test_data['Fare'].mean(), inplace=True)
 
 print(train_data['Embarked'].value_counts())
 
-'''output
-S    644
-C    168
-Q     77
-Name: Embarked, dtype: int64
-
-'''
 
 # 使用登录最多的港口来填充登录港口的 nan 值
 train_data['Embarked'].fillna('S', inplace=True)
@@ -41,9 +34,7 @@ dvec = DictVectorizer(sparse=False)
 train_features = dvec.fit_transform(train_features.to_dict(orient='record'))
 print(dvec.feature_names_)
 
-'''output
-['Age', 'Embarked=C', 'Embarked=Q', 'Embarked=S', 'Fare', 'Parch', 'Pclass', 'Sex=female', 'Sex=male', 'SibSp']
-'''
+
 
 # 构造 ID3 决策树
 clf = DecisionTreeClassifier(criterion='entropy')
@@ -56,13 +47,9 @@ pred_labels = clf.predict(test_features)
 # 得到决策树准确率
 acc_decision_tree = round(clf.score(train_features, train_labels), 6)
 print(u'score 准确率为 %.4lf' % acc_decision_tree)
-'''output
-score 准确率为 0.9820
-'''
+
 
 # 使用 K 折交叉验证 统计决策树准确率
 print(u'cross_val_score 准确率为 %.4lf' % np.mean(cross_val_score(clf, train_features, train_labels, cv=10)))
 
-'''output
-cross_val_score 准确率为 0.7847
-'''
+

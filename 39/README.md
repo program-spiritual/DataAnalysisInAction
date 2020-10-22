@@ -23,10 +23,6 @@ clf.fit(iris.data, iris.target)
 print(" 最优分数： %.4lf" %clf.best_score_)
 print(" 最优参数：", clf.best_params_)
 
-'''output
- 最优分数： 0.9600
- 最优参数： {'n_estimators': 7}
-'''
 
 ```
 

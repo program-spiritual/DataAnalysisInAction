@@ -19,9 +19,6 @@ for edge in edges:
 pagerank_list = nx.pagerank(G, alpha=1)
 print("pagerank 值是：", pagerank_list)
 
-'''output
-pagerank 值是： {'A': 0.33333396911621094, 'B': 0.22222201029459634, 'C': 0.22222201029459634, 'D': 0.22222201029459634}
-'''
 
 ```
   

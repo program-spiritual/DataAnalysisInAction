@@ -18,9 +18,3 @@ fil = np.array([[-1, -1, 0],
 res = signal.convolve2d(img, fil, mode='valid')
 # 输出卷积后的结果
 print(res)
-
-'''output
-[[ 15  10   0]
- [ 10   0 -10]
- [  0 -10 -15]]
-'''

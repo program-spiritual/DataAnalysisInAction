@@ -6,8 +6,3 @@ x2 = np.linspace(1,9,5) # 默认包含最终值
 print x1
 print x2
 
-''' output:
-[1 3 5 7 9]
-[1. 3. 5. 7. 9.]
-
-'''

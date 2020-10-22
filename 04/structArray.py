@@ -26,11 +26,4 @@ print np.mean(chineses)
 print np.mean(math)
 print np.mean(english)
 
-'''output:
-28.25
-77.5
-93.25
-93.75
 
-
-'''

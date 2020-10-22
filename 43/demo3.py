@@ -41,24 +41,3 @@ score = model.evaluate(test_x, test_y)
 print('误差:%0.4lf' % score[0])
 print('准确率:', score[1])
 
-
-'''output
-Using TensorFlow backend.
-Downloading data from https://s3.amazonaws.com/img-datasets/mnist.npz
-11493376/11490434 [==============================] - 4s 0us/step
-WARNING:tensorflow:From /Users/huhongyun/PythonProjects/geekTimeDataAnalysisInAction/.venv/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
-Instructions for updating:
-Colocations handled automatically by placer.
-WARNING:tensorflow:From /Users/huhongyun/PythonProjects/geekTimeDataAnalysisInAction/.venv/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
-Instructions for updating:
-Use tf.cast instead.
-Train on 60000 samples, validate on 10000 samples
-Epoch 1/2
-2019-03-22 20:42:43.262460: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
-60000/60000 [==============================] - 8s 141us/step - loss: 0.3482 - acc: 0.9021 - val_loss: 0.1100 - val_acc: 0.9673
-Epoch 2/2
-60000/60000 [==============================] - 8s 141us/step - loss: 0.1022 - acc: 0.9685 - val_loss: 0.0715 - val_acc: 0.9777
-10000/10000 [==============================] - 1s 72us/step
-误差:0.0715
-准确率: 0.9777
-'''

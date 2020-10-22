@@ -15,17 +15,7 @@ print np.amin(a, 1)
 print np.amax(a)
 print np.amax(a, 0)
 print np.amax(a, 1)
-''' output
-最小值
-1
-[1 2 3]
-[1 4 7]
-最大值
-9
-[7 8 9]
-[3 6 9]
 
-'''
 
 print np.ptp(a)
 print np.ptp(a, 0)
