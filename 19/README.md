@@ -141,9 +141,7 @@ dvec = DictVectorizer(sparse=False)
 train_features = dvec.fit_transform(train_features.to_dict(orient='record'))
 print(dvec.feature_names_)
 
-'''output
-['Age', 'Embarked=C', 'Embarked=Q', 'Embarked=S', 'Fare', 'Parch', 'Pclass', 'Sex=female', 'Sex=male', 'SibSp']
-'''
+
 
 # 构造 ID3 决策树
 clf = DecisionTreeClassifier(criterion='entropy')
