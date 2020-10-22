@@ -23,6 +23,7 @@ clf = DecisionTreeClassifier(criterion='entropy')
 ![分类器方法](./WechatIMG18.jpeg)
 
 - [模型1代码](module1.py)
+
 ```python
 # coding=utf-8
 import pandas as pd
@@ -43,6 +44,7 @@ print(train_data.tail())
 
 ```
 - [模型2代码](module2.py)
+
 ```python
 # coding=utf-8
 import pandas as pd
@@ -67,6 +69,7 @@ train_data['Embarked'].fillna('S', inplace=True)
 test_data['Embarked'].fillna('S',inplace=True)
 ```
 - [模型3代码](module3.py)
+
 ```python
 # coding=utf-8
 import pandas as pd
@@ -100,12 +103,9 @@ test_features = test_data[features]
 dvec = DictVectorizer(sparse=False)
 train_features = dvec.fit_transform(train_features.to_dict(orient='record'))
 print(dvec.feature_names_)
-
-
-
-
 ```
 - [模型4代码](module4.py)
+
 ```python
 # coding=utf-8
 import pandas as pd
@@ -147,9 +147,10 @@ print(dvec.feature_names_)
 clf = DecisionTreeClassifier(criterion='entropy')
 # 决策树训练
 clf.fit(train_features, train_labels)
-
 ```
+
 - [模型5代码](module5.py)
+
 ```python
 # coding=utf-8
 import pandas as pd
@@ -197,9 +198,9 @@ pred_labels = clf.predict(test_features)
 # 得到决策树准确率
 acc_decision_tree = round(clf.score(train_features, train_labels), 6)
 print(u'score 准确率为 %.4lf' % acc_decision_tree)
-
 ```
 - [模型6代码](module6.py)
+
 ```python
 # coding=utf-8
 import pandas as pd
@@ -252,6 +253,4 @@ print(u'score 准确率为 %.4lf' % acc_decision_tree)
 
 # 使用 K 折交叉验证 统计决策树准确率
 print(u'cross_val_score 准确率为 %.4lf' % np.mean(cross_val_score(clf, train_features, train_labels, cv=10)))
-
-
 ```
