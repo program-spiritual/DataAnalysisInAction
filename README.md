@@ -166,3 +166,8 @@ Windows平台开发如何能够更快捷，更舒适，请 Windows 的看官务�
 极客时间版权所有: https://time.geekbang.org/column/
 
 Copyright (c) 2019 Copyright Holder All Rights Reserved.
+
+
+## 博客缩略图/点击即达
+
+[![小新开源](img/ai_nodejs7.png)](https://ai.nodejs7.com)
