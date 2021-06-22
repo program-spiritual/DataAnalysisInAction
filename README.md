@@ -170,4 +170,4 @@ Copyright (c) 2019 Copyright Holder All Rights Reserved.
 
 ## 博客缩略图/点击即达
 
-[![小新开源](img/ai_nodejs7.png)](https://ai.nodejs7.com)
+[![小新开源](img/ai_nodejs7.png)](https://tftp.top/)
