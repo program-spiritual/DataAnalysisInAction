@@ -5,7 +5,7 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-## 博客
+## 博客 BLog
 
 nodejs7.com
 
@@ -53,12 +53,6 @@ Windows平台开发如何能够更快捷，更舒适，请 Windows 的看官务�
 
 1. [问题讨论区](https://github.com/xiaomiwujiecao/DataAnalysisInAction/issues/14)
 2. [疑难杂症](https://ai.nodejs7.com/category/default/)
-
-### 博客
-
-[极客点子](http://geek.thickink.com)
-
-[疯狂的AI(Artificial Intelligence)](http://ai.nodejs7.com/)
 
 
 ## 致谢
