@@ -5,6 +5,9 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
+## 博客
+
+nodejs7.com
 
 ## 版本 2.3.1
 
@@ -168,6 +171,4 @@ Windows平台开发如何能够更快捷，更舒适，请 Windows 的看官务�
 Copyright (c) 2019 Copyright Holder All Rights Reserved.
 
 
-## 博客缩略图/点击即达
 
-[![小新开源](img/ai_nodejs7.png)](https://tftp.top/)
