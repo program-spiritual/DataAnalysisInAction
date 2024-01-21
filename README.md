@@ -1,6 +1,7 @@
 #  《极客时间数据分析实战45讲-详细笔记》
 
-![数据分析实战45讲详细笔记](./data_analysis_icon.png)
+> 亲爱的朋友们，现在 AI 时代已经到来，我的项目维护虽然在继续，但是无法同步和大家分享知识，最近我已经注册了微信订阅号，希望看到的朋友互相通知一下： 微信公众号：编程悟道
+
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
